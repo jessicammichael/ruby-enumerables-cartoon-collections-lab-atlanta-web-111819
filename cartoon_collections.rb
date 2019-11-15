@@ -27,10 +27,5 @@ find_the_cheese(snacks)
 soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 find_the_cheese(soup)
 
-%w(cheese_types).each_with_index { |item, index|
-  hash[item] = index
 end
 
-
-%w(cat dog wombat).each_with_index { |item, index|
-  hash[item] = index
