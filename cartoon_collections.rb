@@ -13,7 +13,7 @@ planeteer_calls = ["mercury", "jupiter", "mars", "moon", "saturn"]
 end
 
 def long_planeteer_calls
-  long_planeteer_calls = []
+  long_planeteer_calls = ["woooowww", "hellllooooo"]
   %w(long_planeteer_calls).each_with_index { |item, index|
     hash[item] = index
 end
