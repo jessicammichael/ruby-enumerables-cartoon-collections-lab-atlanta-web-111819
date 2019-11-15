@@ -28,4 +28,3 @@ soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 find_the_cheese(soup)
 
 end
-
