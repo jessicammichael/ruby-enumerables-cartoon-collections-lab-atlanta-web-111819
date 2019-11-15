@@ -21,7 +21,6 @@ def find_the_cheese# code an argument here
 cheese_types = ["cheddar", "gouda", "camembert"]
 %w(cheese_types).each_with_index { |item, index|
   hash[item] = index
-
 end
 
 
